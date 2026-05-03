@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.venv
+
+config/.env          
+.env              
+
+data/weather_data.json     
+data/temp_data.parquet     
+logs/
+notebooks/.ipynb_checkpoints/
+
+.DS_Store       
