@@ -333,11 +333,3 @@ docker compose up
 [![Instagram](https://img.shields.io/badge/Instagram-@luis__fernando__jv__eng-E4405F?style=flat&logo=instagram)](https://www.instagram.com/luis_fernando_jv_eng)
 [![Gmail](https://img.shields.io/badge/Gmail-luizfer.12321@gmail.com-D14836?style=flat&logo=gmail)](mailto:luizfer.12321@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-181717?style=flat&logo=github)](https://github.com/seu-usuario)
-
----
-
-<div align="center">
-
-**Feito com ❤️ por Luis Fernando — Uiraúna, PB**
-
-</div>
