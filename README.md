@@ -36,6 +36,12 @@ A cidade escolhida foi **Uiraúna - PB**, no sertão paraibano, região com clim
 
 ## 🏗️ Arquitetura do Pipeline
 
+### Diagrama Visual
+
+![Diagrama ETL - Pipeline Climático Uiraúna/PB](assets/ETL.jpg)
+
+---
+
 ```
 OpenWeatherMap API
         │
